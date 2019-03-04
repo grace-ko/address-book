@@ -1,11 +1,14 @@
 {
   "name": "address-book",
   "version": "1.0.0",
-  "description": "An application to model an address book in Node",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "^C",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
 }
